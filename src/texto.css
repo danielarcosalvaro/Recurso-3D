@@ -1,0 +1,9 @@
+
+.box {
+    position:absolute;
+  }
+  
+  .nav {
+    position:relative;
+    top:200px;
+  }
